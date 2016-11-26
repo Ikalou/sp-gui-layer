@@ -1,0 +1,80 @@
+{
+  "nextEntryId": 13,
+  "nodes": [
+    {
+      "id": "9",
+      "name": "Scripts",
+      "type": null,
+      "children": [
+        {
+          "id": "10",
+          "name": "SetCameraLayer",
+          "type": "script"
+        },
+        {
+          "id": "11",
+          "name": "CharaMovement",
+          "type": "script"
+        },
+        {
+          "id": "12",
+          "name": "Camera",
+          "type": "script"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Scenes",
+      "type": null,
+      "children": [
+        {
+          "id": "0",
+          "name": "MyScene",
+          "type": "scene"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Sprites",
+      "type": null,
+      "children": [
+        {
+          "id": "6",
+          "name": "GUI",
+          "type": null,
+          "children": [
+            {
+              "id": "4",
+              "name": "MyGUISprite2",
+              "type": "sprite"
+            },
+            {
+              "id": "3",
+              "name": "MyGUISprite",
+              "type": "sprite"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "name": "Default",
+          "type": null,
+          "children": [
+            {
+              "id": "2",
+              "name": "MyDefaultBg",
+              "type": "sprite"
+            },
+            {
+              "id": "1",
+              "name": "MyDefaultSprite",
+              "type": "sprite"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

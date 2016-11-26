@@ -1,0 +1,10 @@
+{
+  "formatVersion": 1,
+  "startupSceneId": "0",
+  "framesPerSecond": 60,
+  "ratioNumerator": 1366,
+  "ratioDenominator": 768,
+  "customLayers": [
+    "GUI"
+  ]
+}

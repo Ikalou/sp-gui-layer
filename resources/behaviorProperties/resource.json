@@ -1,0 +1,37 @@
+{
+  "behaviors": {
+    "SetCameraLayerBehavior": {
+      "scriptId": "10",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "layerId",
+          "type": "number"
+        }
+      ]
+    },
+    "CharaMovementBehavior": {
+      "scriptId": "11",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        }
+      ]
+    },
+    "CameraBehavior": {
+      "scriptId": "12",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "z",
+          "type": "number"
+        }
+      ]
+    }
+  }
+}
